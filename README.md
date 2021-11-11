@@ -1,6 +1,9 @@
 # machine_learning_nanodegree
 This is all the projects from my Udacity machine learning Nanodegree
 
+PLEASE USE THIS TO VIEW THE HTML FILES:
+https://htmlpreview.github.io/
+
 1. Predicting House Prices (Decision Tree)
 2. Finding Donors (Classification)
 3. Customer Segmentation (Unsupervised Learning)
